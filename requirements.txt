@@ -1,0 +1,12 @@
+streamlit
+ccxt
+pandas
+numpy
+requests
+feedparser
+python-dotenv
+beautifulsoup4
+altair
+apscheduler
+cryptography
+vaderSentiment
