@@ -173,7 +173,7 @@ vaderSentiment
 
 ## 🎥 Demo
 
-> Demo video link here
+> https://github.com/nisarg/openclaw/raw/main/memelord977.mp4
 
 ---
 
