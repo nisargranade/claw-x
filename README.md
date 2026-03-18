@@ -171,12 +171,6 @@ vaderSentiment
 
 ---
 
-## 🎥 Demo
-
-> https://github.com/nisargranade/openclaw/raw/main/memelord977.mp4
-
----
-
 ## 🏆 Built For
 
 **Binance Contest 2025** — AI-powered crypto management tools built on Binance infrastructure.
